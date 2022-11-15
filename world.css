@@ -1,1 +1,19 @@
 /* Add your own styles */
+header {
+    background-color: #3678cd;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#controls {
+    display: flex;
+    justify-content: right;
+    background-color: #808284;
+}
+
+#lookup {
+    color: rgb(255, 30, 0);
+}
